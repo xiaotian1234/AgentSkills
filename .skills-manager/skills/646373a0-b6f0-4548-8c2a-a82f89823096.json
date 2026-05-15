@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "646373a0-b6f0-4548-8c2a-a82f89823096",
+  "path": "difficult-workplace-conversations",
+  "path_key": "difficult-workplace-conversations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

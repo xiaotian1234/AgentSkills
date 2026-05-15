@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0ac9f285-dcde-4d05-acf0-e237ce7f8b03",
+  "path": "graphify-windows",
+  "path_key": "graphify-windows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

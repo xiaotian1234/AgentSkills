@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ef3486eb-cbf4-43b3-aecd-032d327b5405",
+  "path": "mem-search",
+  "path_key": "mem-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7d05496a-a05f-4ab6-9219-bbd36228257a",
+  "path": "mui",
+  "path_key": "mui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

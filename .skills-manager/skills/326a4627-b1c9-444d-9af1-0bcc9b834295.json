@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "326a4627-b1c9-444d-9af1-0bcc9b834295",
+  "path": "c4-architecture",
+  "path_key": "c4-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

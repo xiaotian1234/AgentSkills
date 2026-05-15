@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d50c26fd-6c88-490f-8e1c-4164ca18b283",
+  "path": "naming-analyzer",
+  "path_key": "naming-analyzer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

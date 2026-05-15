@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "93e3bfa8-0704-4102-a50a-3806f4e84dff",
+  "path": "react-dev",
+  "path_key": "react-dev",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

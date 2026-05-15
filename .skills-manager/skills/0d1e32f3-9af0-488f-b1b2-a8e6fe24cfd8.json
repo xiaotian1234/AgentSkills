@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0d1e32f3-9af0-488f-b1b2-a8e6fe24cfd8",
+  "path": "react-useeffect",
+  "path_key": "react-useeffect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

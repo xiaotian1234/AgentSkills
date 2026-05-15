@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "08470e5a-b036-4276-ad8f-a7961c0befec",
+  "path": "ship-learn-next",
+  "path_key": "ship-learn-next",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

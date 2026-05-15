@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aefa9e5b-6315-4292-ab91-e079e400edf7",
+  "path": "openapi-to-typescript",
+  "path_key": "openapi-to-typescript",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

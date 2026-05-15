@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b4b6e2fd-1bf3-4f01-ba38-cc5d5b9efd92",
+  "path": "algorithmic-art",
+  "path_key": "algorithmic-art",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

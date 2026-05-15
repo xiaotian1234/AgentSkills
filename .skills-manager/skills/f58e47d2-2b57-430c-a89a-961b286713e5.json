@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f58e47d2-2b57-430c-a89a-961b286713e5",
+  "path": "plugin-forge",
+  "path_key": "plugin-forge",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

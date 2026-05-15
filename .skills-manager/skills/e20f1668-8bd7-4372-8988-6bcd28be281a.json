@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e20f1668-8bd7-4372-8988-6bcd28be281a",
+  "path": "backend-to-frontend-handoff-docs",
+  "path_key": "backend-to-frontend-handoff-docs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

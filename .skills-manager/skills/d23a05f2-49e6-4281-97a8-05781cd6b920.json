@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d23a05f2-49e6-4281-97a8-05781cd6b920",
+  "path": "datadog-cli",
+  "path_key": "datadog-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

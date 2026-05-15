@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5b13e86e-1a73-4f58-aa58-76adf4730c75",
+  "path": "domain-name-brainstormer",
+  "path_key": "domain-name-brainstormer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

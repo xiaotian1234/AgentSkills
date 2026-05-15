@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4cfe8d80-2fc6-4608-9469-21c4bc3bfe61",
+  "path": "frontend-to-backend-requirements",
+  "path_key": "frontend-to-backend-requirements",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

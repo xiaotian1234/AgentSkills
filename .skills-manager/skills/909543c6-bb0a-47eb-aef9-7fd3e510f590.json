@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "909543c6-bb0a-47eb-aef9-7fd3e510f590",
+  "path": "command-creator",
+  "path_key": "command-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "44dbfed2-e0ac-43f8-88b0-3c01ea9aa2d2",
+  "path": "lesson-learned",
+  "path_key": "lesson-learned",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

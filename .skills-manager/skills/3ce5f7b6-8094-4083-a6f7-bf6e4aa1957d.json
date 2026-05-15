@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3ce5f7b6-8094-4083-a6f7-bf6e4aa1957d",
+  "path": "jira",
+  "path_key": "jira",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

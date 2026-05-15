@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "69923971-df92-4052-8dc4-75187f1bb8a4",
+  "path": "feedback-mastery",
+  "path_key": "feedback-mastery",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

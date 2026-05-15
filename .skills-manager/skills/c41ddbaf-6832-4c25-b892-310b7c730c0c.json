@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c41ddbaf-6832-4c25-b892-310b7c730c0c",
+  "path": "meme-factory",
+  "path_key": "meme-factory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

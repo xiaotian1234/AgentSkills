@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1488c70-ffd9-4190-a03c-719a1a932e88",
+  "path": "daily-meeting-update",
+  "path_key": "daily-meeting-update",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

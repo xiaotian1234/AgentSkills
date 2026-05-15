@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e684a705-2750-438f-aa18-a7a7576886db",
+  "path": "skill-judge",
+  "path_key": "skill-judge",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

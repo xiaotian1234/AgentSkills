@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "15b6f0e1-f1ba-4357-8026-7bea56366da7",
+  "path": "writing-clearly-and-concisely",
+  "path_key": "writing-clearly-and-concisely",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

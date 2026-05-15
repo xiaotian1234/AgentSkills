@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9fb52414-9bf1-4252-bf7a-a044b3c1c6f6",
+  "path": "agent-md-refactor",
+  "path_key": "agent-md-refactor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

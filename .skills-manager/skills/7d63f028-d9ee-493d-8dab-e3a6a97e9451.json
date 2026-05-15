@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7d63f028-d9ee-493d-8dab-e3a6a97e9451",
+  "path": "gepetto",
+  "path_key": "gepetto",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

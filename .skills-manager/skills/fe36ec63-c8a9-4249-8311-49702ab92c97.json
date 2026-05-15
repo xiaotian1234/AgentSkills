@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe36ec63-c8a9-4249-8311-49702ab92c97",
+  "path": "game-changing-features",
+  "path_key": "game-changing-features",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4923eeb5-41ea-43d8-a39b-6c8650f9d90c",
+  "path": "draw-io",
+  "path_key": "draw-io",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

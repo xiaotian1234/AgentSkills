@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6e905ec2-2fda-4946-9ed9-cd3611e460d5",
+  "path": "qa-test-planner",
+  "path_key": "qa-test-planner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

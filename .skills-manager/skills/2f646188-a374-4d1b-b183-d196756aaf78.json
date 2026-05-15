@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f646188-a374-4d1b-b183-d196756aaf78",
+  "path": "reducing-entropy",
+  "path_key": "reducing-entropy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
