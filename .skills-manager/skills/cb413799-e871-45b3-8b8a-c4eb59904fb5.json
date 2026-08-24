@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cb413799-e871-45b3-8b8a-c4eb59904fb5",
+  "path": "api-docs-generator",
+  "path_key": "api-docs-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "patricio0312rev/skills/api-docs-generator",
+    "subpath": "backend\\api-docs-generator",
+    "branch": null
+  }
+}

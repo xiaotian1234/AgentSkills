@@ -15,7 +15,7 @@ description: 将任意文件（Word、PDF、Excel、PowerPoint、HTML、图片�
 
 ## 环境信息
 
-- **Python路径：** `C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\python.exe`
+- **Python路径：** `D:\Install\Anaconda\python.exe`
 - **markitdown：** 已安装（通用文档转换）
 - **rapidocr + onnxruntime：** 已安装（图片/扫描件离线OCR，支持中英文，无需API Key）
 
@@ -70,7 +70,7 @@ if (Test-Path $filePath) {
 ### 第三步A：图片/截图/扫描件 → RapidOCR
 
 ```powershell
-$python = "C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\python.exe"
+$python = "D:\Install\Anaconda\python.exe"
 
 & $python -c @"
 from rapidocr import RapidOCR
@@ -106,7 +106,7 @@ except Exception as e:
 ### 第三步B：其他格式 → markitdown
 
 ```powershell
-$python = "C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\python.exe"
+$python = "D:\Install\Anaconda\python.exe"
 
 & $python -c @"
 from markitdown import MarkItDown

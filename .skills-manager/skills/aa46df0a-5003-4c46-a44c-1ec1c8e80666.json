@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aa46df0a-5003-4c46-a44c-1ec1c8e80666",
+  "path": "ai-slop-cleaner",
+  "path_key": "ai-slop-cleaner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "yeachan-heo/oh-my-claudecode/ai-slop-cleaner",
+    "subpath": "skills\\ai-slop-cleaner",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "24287372-30f6-445c-8eea-5658a0437aed",
+  "path": "halcon-skill",
+  "path_key": "halcon-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

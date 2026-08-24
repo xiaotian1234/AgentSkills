@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9ac38005-bee7-4038-a99c-67c891690110",
+  "path": "dependency-audit",
+  "path_key": "dependency-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "bobmatnyc/claude-mpm-skills/dependency-audit",
+    "subpath": "toolchains\\universal\\dependency\\dependency-audit",
+    "branch": null
+  }
+}

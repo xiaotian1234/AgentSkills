@@ -158,7 +158,7 @@ Proxy 通过 WebSocket 直连浏览器（兼容 `chrome://inspect` / `edge://ins
 node "${CLAUDE_SKILL_DIR}/scripts/cdp-proxy.mjs" &
 
 # 页面操作
-curl -s "http://localhost:3456/new?url=https://example.com"     # 新建 tab
+curl -s -X POST --data-raw 'https://example.com' http://localhost:3456/new  # 新建 tab（v2.5.3 起 URL 走 POST body）
 curl -s -X POST "http://localhost:3456/eval?target=ID" -d 'document.title'  # 执行 JS
 curl -s -X POST "http://localhost:3456/click?target=ID" -d 'button.submit'  # JS 点击
 curl -s -X POST "http://localhost:3456/clickAt?target=ID" -d '.upload-btn'  # 真实鼠标点击

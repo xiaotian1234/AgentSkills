@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fc1ff363-21ad-4667-aa1a-95b3e0dcb6c8",
+  "path": "dws",
+  "path_key": "dws",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
