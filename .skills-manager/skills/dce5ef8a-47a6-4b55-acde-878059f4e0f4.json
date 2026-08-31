@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dce5ef8a-47a6-4b55-acde-878059f4e0f4",
+  "path": "machine-vision-method-halcon",
+  "path_key": "machine-vision-method-halcon",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

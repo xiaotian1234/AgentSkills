@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "81fe4626-5f19-43ff-8c56-aa32a5c6bfe9",
+  "path": "machine-vision-method-multiple-view-geometry",
+  "path_key": "machine-vision-method-multiple-view-geometry",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

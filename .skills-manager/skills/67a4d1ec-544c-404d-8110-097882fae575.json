@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "67a4d1ec-544c-404d-8110-097882fae575",
+  "path": "machine-vision-advisory-board",
+  "path_key": "machine-vision-advisory-board",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

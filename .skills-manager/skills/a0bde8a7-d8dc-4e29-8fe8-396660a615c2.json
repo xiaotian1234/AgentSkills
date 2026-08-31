@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a0bde8a7-d8dc-4e29-8fe8-396660a615c2",
+  "path": "machine-vision-method-cognex",
+  "path_key": "machine-vision-method-cognex",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

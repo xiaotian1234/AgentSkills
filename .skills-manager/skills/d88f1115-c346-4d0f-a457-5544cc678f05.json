@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d88f1115-c346-4d0f-a457-5544cc678f05",
+  "path": "machine-vision-advisor-bradski",
+  "path_key": "machine-vision-advisor-bradski",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

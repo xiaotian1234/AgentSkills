@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "336d408e-71c1-44c2-aa1e-15f066f886db",
+  "path": "machine-vision-method-computer-vision-algorithms",
+  "path_key": "machine-vision-method-computer-vision-algorithms",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

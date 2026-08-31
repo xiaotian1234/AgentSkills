@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2fad51a8-9a71-4f83-a503-351935b539b2",
+  "path": "machine-vision-method-opencv",
+  "path_key": "machine-vision-method-opencv",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

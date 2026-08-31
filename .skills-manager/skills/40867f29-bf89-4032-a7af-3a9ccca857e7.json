@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "40867f29-bf89-4032-a7af-3a9ccca857e7",
+  "path": "machine-vision-advisor-steger",
+  "path_key": "machine-vision-advisor-steger",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9db47afd-fcf3-4ddf-99da-c52fc1cbc586",
+  "path": "machine-vision-advisor-lowe",
+  "path_key": "machine-vision-advisor-lowe",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
