@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c586bf73-275d-4afc-a1e1-f51a34ed5485",
+  "path": "software-architecture-method-ddd",
+  "path_key": "software-architecture-method-ddd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

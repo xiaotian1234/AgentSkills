@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "baee5130-03b8-49b1-9fa6-9bd907dece1d",
+  "path": "software-architecture-advisor-farley",
+  "path_key": "software-architecture-advisor-farley",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

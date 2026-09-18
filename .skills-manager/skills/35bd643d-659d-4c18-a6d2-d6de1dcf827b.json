@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35bd643d-659d-4c18-a6d2-d6de1dcf827b",
+  "path": "software-architecture-advisory-board",
+  "path_key": "software-architecture-advisory-board",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

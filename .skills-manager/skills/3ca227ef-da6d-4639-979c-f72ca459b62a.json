@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3ca227ef-da6d-4639-979c-f72ca459b62a",
+  "path": "software-architecture-method-ddia",
+  "path_key": "software-architecture-method-ddia",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

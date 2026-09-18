@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "399b6aa2-bd99-41cf-acbc-aaf54ac41964",
+  "path": "software-architecture-advisor-fowler",
+  "path_key": "software-architecture-advisor-fowler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
