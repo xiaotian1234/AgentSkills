@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "67380f90-2463-4649-9a15-fda8ed985b11",
+  "path": "tutorial-long-image",
+  "path_key": "tutorial-long-image",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

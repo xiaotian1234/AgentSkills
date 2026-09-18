@@ -11,6 +11,7 @@
     "codex": true,
     "continue": true,
     "cursor": true,
+    "deepseek_harness": true,
     "gemini_cli": true,
     "github_copilot": true,
     "hermes": true,
@@ -21,6 +22,8 @@
     "qoder": true,
     "trae": true,
     "trae_cn": true,
-    "windsurf": true
+    "windsurf": true,
+    "workbuddy": true,
+    "zcode": true
   }
 }
