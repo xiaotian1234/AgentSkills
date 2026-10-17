@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "231d5d4b-cd8a-4997-a48d-d2621cbfc3a5",
+  "path": "last30days",
+  "path_key": "last30days",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
