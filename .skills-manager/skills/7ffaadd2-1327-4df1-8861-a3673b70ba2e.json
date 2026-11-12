@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ffaadd2-1327-4df1-8861-a3673b70ba2e",
+  "path": "claude-guardian",
+  "path_key": "claude-guardian",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

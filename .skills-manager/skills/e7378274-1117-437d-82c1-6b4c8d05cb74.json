@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e7378274-1117-437d-82c1-6b4c8d05cb74",
+  "path": "goutoujunshi",
+  "path_key": "goutoujunshi",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Claude Guardian（本地只读版）"
+  short_description: "只读核对 Claude 使用环境与订阅条件，不修复、不清理、不处理账号付款"
+policy:
+  allow_implicit_invocation: false
+
