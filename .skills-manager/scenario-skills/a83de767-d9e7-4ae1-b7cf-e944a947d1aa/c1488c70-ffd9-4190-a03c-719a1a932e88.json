@@ -8,7 +8,7 @@
     "antigravity": true,
     "claude_code": true,
     "codebuddy": true,
-    "codex": true,
+    "codex": false,
     "continue": true,
     "cursor": true,
     "deepseek_harness": true,
