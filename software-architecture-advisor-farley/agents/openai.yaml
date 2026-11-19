@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dave Farley 工程顾问"
+  short_description: "用快速反馈、测试和持续交付评审工程方案"
+  default_prompt: "使用 $software-architecture-advisor-farley 评审当前测试、反馈和持续交付能力。"

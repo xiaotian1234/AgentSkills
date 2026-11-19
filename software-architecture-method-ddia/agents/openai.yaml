@@ -1,0 +1,4 @@
+interface:
+  display_name: "DDIA 数据架构方法论"
+  short_description: "用负载、事务、一致性和故障模型评审数据系统"
+  default_prompt: "使用 $software-architecture-method-ddia 评审当前数据架构的一致性、故障和恢复设计。"

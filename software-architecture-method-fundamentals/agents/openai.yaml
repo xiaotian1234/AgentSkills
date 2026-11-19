@@ -1,0 +1,4 @@
+interface:
+  display_name: "软件架构基础方法论"
+  short_description: "用架构特性、风格权衡、ADR 和风险框架评审"
+  default_prompt: "使用 $software-architecture-method-fundamentals 生成当前系统的架构特性与风格权衡评审。"
